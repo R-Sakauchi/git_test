@@ -2,5 +2,6 @@ gitの練習
 修正
 
 ・git add
+・git rm
 ・git commit
 ・git push
